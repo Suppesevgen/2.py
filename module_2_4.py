@@ -21,32 +21,3 @@ for i in range (0, len(numbers)):
 
 print('Primes', Primes)
 print('Not_Primes', Not_Primes)
-
-
-
-
-
-
-
-    #if numbers[i] == 1:
-       # continue
-    #if numbers[i] % h == 0:
-        #continue
-    #while 1>0:
-        #h+=1
-        #if h==numbers[i]:
-          #  break
-        #if numbers[i] % h == 0:
-            #if h==numbers[i]:
-             #   isprime = True
-            #else:
-            #    isprime=False
-    #if isprime == False:
-     #   Not_Primes.append(numbers[i])
-    #if isprime == True:
-    #    Primes.append(numbers[i])
-#print(Not_Primes)
-#print(Primes)
-
-#Not_Primes.append(numbers[i])
-#Primes.append(numbers[i])
